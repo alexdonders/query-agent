@@ -1,0 +1,1 @@
+select 'test' as a field from dummy
