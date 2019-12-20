@@ -1,3 +1,4 @@
 key;value
-byBusinessDay; 20190909, 20190910, 20190911, 20190912, 20190913 
+byBusinessDay; 20190101, 20190102, 20190103 
 byMember; 1, 2 , 3
+bySecurity; NESN, UBSN, ABBN

@@ -1,1 +1,1 @@
-select * from dummy where date_key=@Date@
+select * from df where date=@byBusinessDay@

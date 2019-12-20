@@ -1,1 +1,1 @@
-select 'hi' from dummy
+select sum(volume) as volume from df

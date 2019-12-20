@@ -1,1 +1,1 @@
-select 'test' as a field from dummy
+select sum(price) as price_chf from df
